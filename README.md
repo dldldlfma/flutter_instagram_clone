@@ -2,7 +2,7 @@
 
 Flutter instagram clone App.
 
-
+![Alt text](./insta_clone.png')
 ## Getting Started
 
 This project is a starting point for a Flutter application.
